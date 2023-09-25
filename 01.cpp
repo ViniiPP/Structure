@@ -19,7 +19,7 @@ int main(){
     fulano.nome = "Vinicius";
     fulano.nota = 9.5;
 
-    //Exibit os dados
+    //Exibir os dados
     cout << "Nome: " << fulano.nome << endl
         << "Matricula: " << fulano.matricula << endl
         << "Nota: " << fulano.nota << endl << endl;
@@ -28,7 +28,7 @@ int main(){
     ciclano.nome = "Pedro";
     ciclano.nota = 9.5;
 
-    //Exibit os dados
+    //Exibir os dados
      cout << "Nome: " << ciclano.nome << endl
         << "Matricula: " << ciclano.matricula << endl
         << "Nota: " << ciclano.nota << endl;
